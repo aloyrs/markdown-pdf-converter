@@ -1,1 +1,1 @@
-markdown-pdf==1.10
+markdown-pdf
